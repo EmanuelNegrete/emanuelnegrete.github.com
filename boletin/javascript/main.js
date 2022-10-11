@@ -36,7 +36,7 @@ links.forEach(function(links){
         content.classList.add("animate__fadeOutUp");
 
         setTimeout(function(){
-            location.href="/";
+            location.href="/boletin";
         },1000);
         
 
